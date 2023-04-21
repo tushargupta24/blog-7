@@ -1,0 +1,74 @@
+{
+    "blog-7": [
+      {
+        "id": "blog-7",
+        "img" : "https://www.livecbse.com/blog/wp-content/uploads/2022/01/ARE-YOU-READY-FOR-THE-BOARD-EXAM-1.png",
+        "title": "10 practices that you can follow to prepare for the CBSE class 12 exam        ",
+        "content": ["The students are expected to give their best in the exams. They have to make sure that they clear the exam with an excellent score so that they can get admission to good colleges.",
+        "Here are 10 practices that you can follow to prepare for the CBSE class 12 exam:-"]
+      },
+      {
+        "id": "blog-7",
+        "listheading" :" Knowing the syllabus thoroughly:",
+        "listcontent": "It is essential to go through all your syllabus before starting studying. Also, check the latest marking scheme and weightage. Understand your weak and strong parts. Analyze the exam pattern and give more weightage to the topics from which more questions will be there in the exam. "
+      },
+      {
+        "id": "blog-7",
+        "listheading" :" Make a study plan:",
+        "listcontent": "A study plan is necessary for exam preparation. After going through the entire syllabus, now you know how vast the class 12 CBSE syllabus is. So make a simple and easy plan accordingly, which is easy to complete. Also, remember that your study plan is not fixed. You can always update it according to your progress. ",
+        "listli": ["Preparing for competitive exams like CBSE class 12 is a big task. You need to put in extra effort to succeed in the exam but fail to understand that preparation is not enough. There are various other things you can do which will help you perform better on the day of your exam. For example, building a study habit is one way where you can improve your score by a significant amount."]
+      },
+      {
+        "id": "blog-7",
+        "listheading" :"Time management:",
+        "listcontent": "Know that you have only 3hrs to complete your exam. So practice in a such way that will boost your problem-solving speed. One suggestion that you can follow is to start writing the answers that you’re sure about or start with the question that consists highest marks and proceed further accordingly."
+      },
+      {
+        "id": "blog-7",
+        "listheading" :" Studying with the help of diagrams and illustrations:",
+        "listcontent": "We know how much diagrams are vital for the CBSE board. Plus diagrams and illustrations help us to understand better and retain more.  Also, explaining your answer with it will fetch you more marks. So now you know that it’s all bonus in studying diagrams."
+      },
+
+      {
+        "id": "blog-7",
+        "listheading" :" Solving sample question papers:",
+        "listcontent": "Solving sample papers helps you to get familiar with the exam pattern. It also gives you an idea of your preparation, and therefore you can plan your further study accordingly.  You can practice time management by solving sample papers as well." },
+      {
+        "id": "blog-7",
+        "listheading" :" Knowing NCERT topics by heart:",
+        "listcontent": "Studying NCERT is a must for every CBSE student. You can always take support of other study materials to clear your concept but before that make sure that you have gone through the NCERT topics thoroughly. Try to study all the examples and diagrams given in it. They will fetch you more marks."
+         },
+
+         {
+            "id": "blog-7",
+            "listheading" :" Note making:",
+            "listcontent": "Note-making is a summarization of the chapter that you have read. Make it in such a way that it will help you to brush up on your concept before an exam and you don’t have to go through the entire book. You can also make a separate note for formulas and diagrams. Understand that this note is going to help you to run through your syllabus. So focus on quality more than quantity."
+             },
+
+             {
+                "id": "blog-7",
+                "listheading" :"Harmonize your subjects properly:",
+                "listcontent": "Don’t stress yourself by studying all difficult topics in a day or don’t put all easy topics in a day. Rationalize your subjects in such a way that it is accurate for you to take them in a day. Like you can start with a lighter topic if you read something difficult last night. Or you can pair English with maths for a day."
+                 },
+                 {
+                    "id": "blog-7",
+                    "listheading" :"Concentrate more on your weak areas:",
+                    "listcontent": "After going through all the topics and solving a few sample papers, now you know what are your weak areas. So work on them more, give them more time in your planning to boost your overall percentage."
+                     },
+                     {
+                        "id": "blog-7",
+                        "listheading" :"Relax your mind:",
+                        "listcontent": "This is more important than everything else. Take a break in between studies. Do meditation to increase your concentration or go for a walk daily. Because stress will prevent you from preparing better and working on high potential. Apart from this, you can also prefer studying in a quiet place with minimal distraction as this will help you focus better on your studies and use a calendar or diary to mark important dates related to examination like submission of application. Be relaxed, be prepared. Work hard and be smart about it. There are many ways to prepare for your exam, but this list can help you get started. If any query or doubt is there please feel free to ask us."
+                         },
+      {
+        "listwithInternalLinksheading" : " Related Links ",
+        "listwithInternalLinks" :[
+        {"link" : "https://www.studybuddy.store","content" : "Study Buddy Page"},
+        {"link" : "https://www.studybuddy.store/notes","content" : "Free Notes 6th to 12th Class"},
+        {"link" : "https://www.studybuddy.store/syllabus","content" : "NCERT Syllabus"},
+        {"link" : "https://www.studybuddy.store/py-ques","content" : "PY Question papers"}
+      ]
+      }
+      
+    ]
+  }
